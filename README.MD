@@ -45,7 +45,7 @@
 - Enter npm run start on the client 
 
 ## ERD
-![ERD](https://i.imgur.com/bdeyEcO.jpg))
+![ERD](https://i.imgur.com/bdeyEcO.jpg)
 
 ---
 
